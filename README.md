@@ -1,2 +1,3 @@
-# meuPrimeiroRepositorio
-Esse é o meu primeiro repositorio, onde eu estou estudando e praticando algumas funcionalidades Git/GitHub
+# Olá Mundo!!!
+Esse é o meu primeiro repositório no GitHub!!!
+Ele tem como objetivo praticar os meus estudos adquiridos na São Paulo Tech School 
